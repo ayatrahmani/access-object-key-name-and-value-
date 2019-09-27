@@ -1,6 +1,4 @@
 # access-object-key-name-and-value-
 
 
-<div *ngFor="let item of testObject | keyvalue">
-    Key: <b>{{item.key}}</b> and Value: <b>{{item.value}}</b>
-</div>
+
